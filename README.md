@@ -1,6 +1,7 @@
 
 # SMS Sender
 
+Hello this is just a demonstration to see how API works with node and with that a simple sms sending through it doesnt has any front-end you can communicate with console
 This Node.js application allows you to send SMS messages using the Twilio API. It includes a simple HTML form for user input and a Node.js script (`send-sms.js`) to send the SMS.
 
 ## Prerequisites
